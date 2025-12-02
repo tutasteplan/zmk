@@ -1,0 +1,5 @@
+{
+  "name": "GeoVisor Harita Görüntüleyici",
+  "description": "GitHub entegrasyonlu KML ve KMZ dosyaları için yapay zeka destekli harita görüntüleme ve analiz aracı.",
+  "requestFramePermissions": []
+}
